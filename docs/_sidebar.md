@@ -3,4 +3,4 @@
 * Overview
   * [Home](README)
 * Books
-  * [Silver Sword](silversword.pdf)
+  * [Silver Sword](books/silversword.pdf)
