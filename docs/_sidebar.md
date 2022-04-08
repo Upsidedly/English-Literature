@@ -2,5 +2,8 @@
 
 * Overview
   * [Home](README)
-* Books
-  * [Silver Sword](books/silversword.pdf)
+* Trends in Computing
+  * **I** [3D Printing](tic/3dprint)
+  * **II** [Artificial Intelligence](tic/ai)
+  * **III** [Blockchain Technology](tic/blockchain)
+  * **IV** [VOIP](tic/voip)
