@@ -1,6 +1,7 @@
-- Exam
-  - [Home](README.md)
-  - [Outline](outline.md)
-- **abc**
-  - defg
-    - hijk
+- **Exam**
+  - [Home](./README.md)
+  - [Outline](./outline.md)
+- **Exam Topics**
+- Computer Hardware
+  - [Types of Hardware](./topics/computer_hardware/types.md)
+  - [Primary vs Secondary](./topics/computer_hardware/pvs.md)
