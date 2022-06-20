@@ -31,7 +31,7 @@
 
 > Output is pretty big so it's going on a separate page
 
-> [!IMPORTANT]
+> [!WARNING]
 > THIS INFORMATION WILL NOT BE COMING ON THE EXAM. PLEASE REFER TO THE [TYPES PAGE](topics/computer_hardware/types.md) FOR INFORMATION COMING UP ON EXAM.
 
 # Output
