@@ -42,7 +42,16 @@
         width: 5em;
         height: 5em;
     }
+    .tag {
+        background-color: #832257;
+        padding-left: 0.3em;
+        padding-right: 0.3em;
+        padding-top: 0.2em;
+        padding-bottom: 0.2em;
+        border-radius: 10em
+    }
 </style>
+<span class="tag">Computer Hardware</span>
 
 # Basic Hardware of the Computer System
 
@@ -150,3 +159,8 @@ Also known as **internal memory** and **main memory**, refers to memory used to 
 ### Secondary Storage
 
 Also known as **auxiliary storage**, refers to memory that that is used to store information for extended periods of time. This type of storage is **non-volatile**, meaning that the data remains when the computers power is lost.
+
+There are 3 types of secondary storage.
+- **Optical Storage**
+- **Mechanical Storage**
+- **Solid State Storage**
