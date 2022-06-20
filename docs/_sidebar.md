@@ -5,6 +5,8 @@
 - Computer Hardware
   - [Types of Hardware](./topics/computer_hardware/types.md)
   - [Primary vs Secondary](./topics/computer_hardware/pvs.md)
+  - [IPOS](topics/computer_hardware/ipos.md)
+  - [Output](topics/computer_hardware/output.md)
 - Ergonomics
   - [What is Ergonomics?](topics/ergonomics/what.md)
   - [Best Practices](topics/ergonomics/bestpractices.md)
