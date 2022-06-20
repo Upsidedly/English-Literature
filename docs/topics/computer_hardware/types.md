@@ -164,3 +164,23 @@ There are 3 types of secondary storage.
 - **Optical Storage**
 - **Mechanical Storage**
 - **Solid State Storage**
+
+## Output
+
+Output hardware translates the information that has been processed by the computer to the user in a form that the user can understand. The most common device is the **monitor**.
+
+### Types
+There are 4 types of output:
+- Text (Eg. Characters in a Word document or printed on paper)
+- Graphics (Eg. Images displayed on the screen)
+- Audio (Eg. songs and other sounds that are heard from speakers)
+- Video (Eg. Movies displayed on the monitor)
+
+### Categories of Output
+
+### Hard Copy Output
+- Hard copy is a relatively permanent form of output that can be read immediately or stored for later use such as paper.
+
+### Soft Copy Output
+- Soft copy is a temporary form of output (Eg. Text on a screen display)
+- It is lost when the computer is turned off unless it is saved in the main memory or on a disk.
