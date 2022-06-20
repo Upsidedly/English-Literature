@@ -49,6 +49,8 @@ There are 4 types of output:
     .rightside {
         float: right;
         margin: 0 0 1em 1em;
+        max-width: 30%;
+        max-height: 10em
     }
 </style>
 
