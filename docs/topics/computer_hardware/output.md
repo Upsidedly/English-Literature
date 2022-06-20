@@ -16,11 +16,23 @@
         padding-bottom: 0.2em;
         border-radius: 10em
     }
+
+            .tag3 {
+        background-color: #832422;
+        padding-left: 0.3em;
+        padding-right: 0.3em;
+        padding-top: 0.2em;
+        padding-bottom: 0.2em;
+        border-radius: 10em
+    }
 </style>
 
-<span class="tag">Computer Hardware</span> <span class="tag2">Output</span>
+<span class="tag">Computer Hardware</span> <span class="tag2">Output</span> <span class="tag3">Not Being Tested</span>
 
 > Output is pretty big so it's going on a separate page
+
+> [!IMPORTANT]
+> THIS INFORMATION WILL NOT BE COMING ON THE EXAM. PLEASE REFER TO THE [TYPES PAGE](topics/computer_hardware/types.md) FOR INFORMATION COMING UP ON EXAM.
 
 # Output
 
