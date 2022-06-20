@@ -6,10 +6,15 @@
   - [Types of Hardware](./topics/computer_hardware/types.md)
   - [Primary vs Secondary](./topics/computer_hardware/pvs.md)
   - [IPOS](topics/computer_hardware/ipos.md)
-  - [Output](topics/computer_hardware/output.md)
 - Ergonomics
   - [What is Ergonomics?](topics/ergonomics/what.md)
   - [Best Practices](topics/ergonomics/bestpractices.md)
   - [Injuries](topics/ergonomics/injuries.md)
 - Trends in Computing
   - [Artificial Intelligence](topics/trends/ai.md)
+- PC Use and Repair
+  - [PC Assembly](topics/pc_use_and_repair/pc_assembly.md)
+  - [Ports](topics/pc_use_and_repair/ports.md)
+  - [Components](topics/pc_use_and_repair/components.md)
+- **Untested Topics**
+- [Output](topics/computer_hardware/output.md)
